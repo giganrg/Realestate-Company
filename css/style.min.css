@@ -422,6 +422,9 @@ html {
 }
 .no-webp .third-header {
   background: url(../img/header/header_bg.png) no-repeat;
+  background-size: cover;
+  color: #fff;
+  font-weight: 400;
 }
 .third-header {
   background: url(../img/header/header_bg.png) no-repeat;

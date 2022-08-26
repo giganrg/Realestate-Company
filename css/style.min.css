@@ -1079,7 +1079,7 @@ html {
     background: url(../img/header/01.png) no-repeat;
   }
   .nav-block .header__burger span {
-    background: url(../img/header/01.png) no-repeat;
+    background: url(../img/header/01.webp) no-repeat;
     position: absolute;
     background-size: 30px;
     left: 10px;
@@ -1092,7 +1092,7 @@ html {
     background: url(../img/header/02.png) no-repeat;
   }
   .nav-block .header__burger.active span {
-    background: url(../img/header/02.png) no-repeat;
+    background: url(../img/header/02.webp) no-repeat;
     position: absolute;
     background-size: 30px;
     left: 10px;
